@@ -12,7 +12,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: orange;  
+    background-color: grey; 
 }
 
 header .Titulo{
@@ -27,9 +27,9 @@ main{
     display: flex;
     flex-wrap: wrap;
     align-self: center;
-    gap: 20px 50px;
-    margin-top: 20px;
-    margin-left: 20px;
+    gap: 30px 40px;
+    padding: 85.5px;
+    
     
    
     
@@ -51,11 +51,11 @@ main{
     height: 100% ;
 }
 
-
 footer{
     background: grey;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    
+    position: relative;
+    width: 100%;  
+    display: flex;
+    align-items: center;
+    flex-direction: column; 
 }
