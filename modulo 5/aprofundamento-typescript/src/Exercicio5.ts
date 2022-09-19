@@ -1,0 +1,1 @@
+//a) algumas configurações foram mudadas como as pasta d raiz e a de saida, remover comentarios 
