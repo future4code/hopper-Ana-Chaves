@@ -1,6 +1,6 @@
 
 type Produto = {
-    id:string,
+    id?:any,
     name:string,
     price: number
 }
